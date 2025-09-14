@@ -17,5 +17,5 @@ Background task (via Celery or management command) checks for price drops.
 5. Logging & Kibana Integration
 Use structlog or Python’s logging module with JSON format.
 
-Send logs to Elasticsearch via Filebeat or Logstash
+
 
